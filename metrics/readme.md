@@ -1,5 +1,5 @@
 The structure follows [Dimensions and Metrics Explorer](https://developers.google.com/analytics/devguides/reporting/core/dimsmets):
- * User
+ * [User](user.md)
  * Session
  * Traffic Sources
  * Adwords
